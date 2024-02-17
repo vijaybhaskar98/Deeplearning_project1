@@ -1,0 +1,20 @@
+tensorflow
+pandas
+dvc
+mlflow==2.2.2  # Check compatibility with other packages
+notebook==7.1.0   # Or latest compatible version
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyyaml
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML  # Or latest compatible version
+scipy
+flask
+flask-cors
+gdown
+-e .
+
