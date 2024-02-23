@@ -55,3 +55,208 @@ x========x]
 [2024-02-22 21:16:27,500:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
 
 x========x]
+[2024-02-22 21:39:51,031:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-22 22:18:15,574:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-22 22:18:16,511:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-22 22:18:16,527:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-22 22:18:16,527:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-22 22:18:16,527:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1cN8vYyCp74U6NMyc6tHgVTf5FX_PfQ2c/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-22 22:18:24,732:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1cN8vYyCp74U6NMyc6tHgVTf5FX_PfQ2c/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-22 22:18:25,176:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-22 22:18:25,176:INFO:main:********************]
+[2024-02-22 22:18:25,176:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-22 22:18:25,176:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-22 22:18:25,193:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-22 22:18:25,379:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-22 22:18:25,711:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-22 22:18:26,578:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-22 22:18:26,875:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-22 22:20:11,180:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-22 22:20:11,997:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-22 22:20:12,002:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-22 22:20:12,015:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-22 22:20:12,015:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1e2JlIiKl78x3RPkNNXMPvXSVtT1gE43z/view?usp=drive_linkinto fileartifacts/data_ingestion/data.zip]
+[2024-02-22 22:20:20,256:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1e2JlIiKl78x3RPkNNXMPvXSVtT1gE43z/view?usp=drive_linkinto fileartifacts/data_ingestion/data.zip]
+[2024-02-22 22:20:20,728:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-22 22:20:20,728:INFO:main:********************]
+[2024-02-22 22:20:20,728:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-22 22:20:20,728:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-22 22:20:20,728:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-22 22:20:20,910:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-22 22:20:20,995:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-22 22:20:21,484:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-22 22:20:21,735:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-22 22:29:51,474:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 04:10:37,329:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 06:23:57,782:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 06:23:57,797:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 06:27:12,262:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 06:27:12,270:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 06:41:56,092:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 06:41:56,092:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 06:41:56,274:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 06:41:56,357:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 06:44:55,472:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 06:44:55,472:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 06:56:11,452:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 06:56:11,457:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 07:06:33,278:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 07:06:33,278:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 07:12:43,716:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 07:12:43,725:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 07:17:34,038:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 07:17:34,038:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 20:02:59,617:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 20:03:02,450:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-23 20:03:02,450:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 20:03:02,466:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 20:03:02,466:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1e2JlIiKl78x3RPkNNXMPvXSVtT1gE43z/view?usp=drive_linkinto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 20:03:10,116:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1e2JlIiKl78x3RPkNNXMPvXSVtT1gE43z/view?usp=drive_linkinto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 20:03:10,557:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-23 20:03:10,557:INFO:main:********************]
+[2024-02-23 20:03:10,557:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-23 20:03:10,557:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 20:03:10,557:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 20:03:10,759:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 20:03:10,997:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 20:03:11,756:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-23 20:03:12,052:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-23 20:09:02,194:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 20:09:02,992:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-23 20:09:03,007:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 20:09:03,007:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 20:09:03,007:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 20:09:10,557:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 20:09:10,991:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-23 20:09:10,991:INFO:main:********************]
+[2024-02-23 20:09:10,991:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-23 20:09:10,991:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 20:09:10,991:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 20:09:11,193:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 20:09:11,289:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 20:09:11,761:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-23 20:09:12,002:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-23 20:42:24,336:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 20:55:40,605:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 20:55:40,611:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 20:55:40,947:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 20:55:41,060:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 20:55:43,532:WARNING:module_wrapper:From c:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-23 20:57:06,079:INFO:builder_impl:Assets written to: artifacts\training\model.hs\assets]
+[2024-02-23 21:31:14,890:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 21:31:15,696:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-23 21:31:15,697:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:31:15,697:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:31:15,700:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 21:31:23,373:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 21:31:23,797:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-23 21:31:23,797:INFO:main:********************]
+[2024-02-23 21:31:23,797:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-23 21:31:23,809:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:31:23,811:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:31:24,001:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 21:31:24,071:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 21:31:24,551:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-23 21:31:24,788:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-23 21:34:36,103:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 21:34:36,923:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-23 21:34:36,933:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:34:36,933:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:34:36,935:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 21:34:44,305:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 21:34:44,935:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-23 21:34:44,935:INFO:main:********************]
+[2024-02-23 21:34:44,936:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-23 21:34:44,937:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:34:44,937:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:34:45,074:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 21:34:45,152:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 21:34:45,672:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-23 21:34:45,908:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-23 21:34:45,908:INFO:main:***************]
+[2024-02-23 21:34:45,908:ERROR:main:name 'STAZE_NAME' is not defined]
+Traceback (most recent call last):
+  File "D:\New folder\Deeplearning_project1\main.py", line 36, in <module>
+    logger.info(f">>>>>>{STAZE_NAME} started<<<<<<<")
+NameError: name 'STAZE_NAME' is not defined
+[2024-02-23 21:37:46,323:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-23 21:37:47,183:INFO:main:>>>>> stageData Ingestion stage started <<<<<]
+[2024-02-23 21:37:47,198:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:37:47,198:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:37:47,198:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 21:37:54,557:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-23 21:37:55,166:INFO:main:>>>> stge Data Ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-23 21:37:55,166:INFO:main:********************]
+[2024-02-23 21:37:55,166:INFO:main:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-23 21:37:55,166:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:37:55,166:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:37:55,354:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-23 21:37:55,418:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-23 21:37:55,890:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-23 21:37:56,127:INFO:main:>>>>> stagePrepare base model compleated <<<<
+
+x======x]
+[2024-02-23 21:37:56,127:INFO:main:***************]
+[2024-02-23 21:37:56,127:INFO:main:>>>>>>Training started<<<<<<<]
+[2024-02-23 21:37:56,138:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-23 21:37:56,138:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-23 21:37:57,477:WARNING:module_wrapper:From C:\Users\vijay\anaconda3\envs\kidney\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-23 21:39:11,742:INFO:builder_impl:Assets written to: artifacts\training\model.hs\assets]
+[2024-02-23 21:39:11,832:INFO:main:>>>>>>Training compleated<<<<<<]
