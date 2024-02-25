@@ -35,3 +35,32 @@ conda activate cnncls
 ### STEP02- Install the requirements
 ```bash
 pip install -r requirements.txt
+
+
+
+
+
+[Documentation](https://mlflow.org/docs/latest/index.html)
+
+...
+##### cmd
+- mlflow ui
+
+...
+### dagshub
+[dagshub](https://dagshub.com)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/vijaybhaskar98/Deeplearning_project1.mlflow \
+MLFLOW_TRACKING_USERNAME=vijaybhaskar98 \
+MLFLOW_TRACKING_PASSWORD=81da240a0b1cb03722e57b5de5563fcd79f1b166 \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+export MLFLOW_TRACKING_URI=https://dagshub.com/vijaybhaskar98/Deeplearning_project1.mlflow
+
+export MLFLOW_TRACKING_USERNAME=vijaybhaskar98
+export MLFLOW_TRACKING_PASSWORD=81da240a0b1cb03722e57b5de5563fcd79f1b166
+
+ ```
