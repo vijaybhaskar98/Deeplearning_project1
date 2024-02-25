@@ -385,3 +385,17 @@ x========X]
 [2024-02-25 11:20:22,291:INFO:stage_04_model_evaluation:>>>>> stageEvaluation stage compleated<<<<<
 
 x========X]
+[2024-02-25 12:30:07,823:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.38.227:8080]
+[2024-02-25 12:30:07,823:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-02-25 12:31:40,439:INFO:_internal:127.0.0.1 - - [25/Feb/2024 12:31:40] "GET / HTTP/1.1" 200 -]
+[2024-02-25 12:32:05,534:INFO:_internal:127.0.0.1 - - [25/Feb/2024 12:32:05] "POST /predict HTTP/1.1" 200 -]
+[2024-02-25 12:32:40,055:INFO:_internal:127.0.0.1 - - [25/Feb/2024 12:32:40] "POST /predict HTTP/1.1" 200 -]
+[2024-02-25 12:32:59,156:INFO:_internal:127.0.0.1 - - [25/Feb/2024 12:32:59] "POST /predict HTTP/1.1" 200 -]
+[2024-02-25 13:00:36,277:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.38.227:8080]
+[2024-02-25 13:00:36,277:INFO:_internal:[33mPress CTRL+C to quit[0m]
