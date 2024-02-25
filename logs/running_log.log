@@ -335,3 +335,53 @@ x======x]
 [2024-02-25 06:55:48,292:INFO:main:>>>>> stageEvaluation stage compleated<<<<<
 
 x========X]
+[2024-02-25 11:03:32,658:INFO:stage_01_data_ingestion:>>>>> stagedata ingestion stage started <<<<<]
+[2024-02-25 11:03:32,658:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-25 11:03:32,658:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-25 11:03:32,658:INFO:data_ingestion:Downloading data from https://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-25 11:04:13,621:INFO:data_ingestion:downloaded data fromhttps://drive.google.com/file/d/1OFiuavh9duz0s05I7asnHLzr0Y1myh6x/view?usp=sharinginto fileartifacts/data_ingestion/data.zip]
+[2024-02-25 11:04:14,085:INFO:stage_01_data_ingestion:>>>> stge data ingestion stage compleated <<<<<
+
+x========x]
+[2024-02-25 11:12:36,985:INFO:stage_02_prepare_base_model:********************]
+[2024-02-25 11:12:36,985:INFO:stage_02_prepare_base_model:>>>>>>> stage Prepare base model started <<<<<<<<]
+[2024-02-25 11:12:37,001:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-25 11:12:37,001:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-25 11:12:37,506:WARNING:saving_utils:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-25 11:12:37,788:INFO:stage_02_prepare_base_model:>>>>> stage Prepare base model completed <<<<<
+
+x==========x]
+[2024-02-25 11:12:43,793:INFO:stage_03_model_training:***************]
+[2024-02-25 11:12:43,793:INFO:stage_03_model_training:>>>>>>Training started<<<<<<<]
+[2024-02-25 11:12:43,793:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-25 11:12:43,793:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-25 11:14:04,597:WARNING:save:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-02-25 11:14:05,315:INFO:builder_impl:Assets written to: artifacts\training\model.hs\assets]
+[2024-02-25 11:14:05,393:INFO:stage_03_model_training:>>>>>>Training compleated<<<<<<]
+[2024-02-25 11:14:13,632:INFO:stage_04_model_evaluation:*********]
+[2024-02-25 11:14:13,632:INFO:stage_04_model_evaluation:>>>>>>>> stageEvaluation stagestarted<<<<<<]
+[2024-02-25 11:14:13,641:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-25 11:14:13,641:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-25 11:14:38,777:INFO:common:JSON file saved at: scores.json]
+[2024-02-25 11:14:38,777:INFO:common:JSON file saved at: scores.json]
+[2024-02-25 11:14:38,777:INFO:stage_04_model_evaluation:>>>>> stageEvaluation stage compleated<<<<<
+
+x========X]
+[2024-02-25 11:17:56,968:INFO:stage_04_model_evaluation:*********]
+[2024-02-25 11:17:56,968:INFO:stage_04_model_evaluation:>>>>>>>> stageEvaluation stagestarted<<<<<<]
+[2024-02-25 11:17:56,972:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-25 11:17:56,972:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-25 11:18:21,358:INFO:common:JSON file saved at: scores.json]
+[2024-02-25 11:18:21,358:INFO:common:JSON file saved at: scores.json]
+[2024-02-25 11:18:21,358:INFO:stage_04_model_evaluation:>>>>> stageEvaluation stage compleated<<<<<
+
+x========X]
+[2024-02-25 11:19:58,057:INFO:stage_04_model_evaluation:*********]
+[2024-02-25 11:19:58,057:INFO:stage_04_model_evaluation:>>>>>>>> stageEvaluation stagestarted<<<<<<]
+[2024-02-25 11:19:58,072:INFO:common:YAML file: config\config.yaml loaded successfully]
+[2024-02-25 11:19:58,075:INFO:common:YAML file: params.yaml loaded successfully]
+[2024-02-25 11:20:22,289:INFO:common:JSON file saved at: scores.json]
+[2024-02-25 11:20:22,291:INFO:common:JSON file saved at: scores.json]
+[2024-02-25 11:20:22,291:INFO:stage_04_model_evaluation:>>>>> stageEvaluation stage compleated<<<<<
+
+x========X]
